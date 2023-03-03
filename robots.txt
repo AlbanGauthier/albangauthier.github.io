@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/gauthier/sitemap.xml
+Sitemap: https://albangauthier.github.io/sitemap.xml
